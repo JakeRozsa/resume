@@ -1,0 +1,13 @@
+section h1 {
+  background-color: rgb(50, 174, 176);
+}
+h1 {
+  background-color: rgb(242, 255, 0);
+}
+header {
+  text-align: center;
+}
+header h1:hover{
+color: rgb(45, 58, 210);
+font-size: 45px;
+}
